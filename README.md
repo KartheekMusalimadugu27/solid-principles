@@ -15,3 +15,6 @@ I - Interface Segregation Principle
 D - Dependency Inversion Principle
 	[1. High level modules should not depend on low level modules. Both should depend on abstractions]
 	[2. Abstractions should not depend on details. Details should depend on Abstractions]
+	
+	Theory:
+	https://medium.com/@salithachathuranga94/solid-principles-in-action-with-java-529d1c2b5f61
